@@ -10,6 +10,8 @@ The most epic theme meets Visual Studio Code. You can help by reporting issues [
 
 # Getting started
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/equinusocio/vsc-material-theme.svg)](https://greenkeeper.io/)
+
 You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme).
 
 ## Installation
